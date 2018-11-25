@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">DefinitelyNotLogin</string>
+
+    <!--Nav and toolbars-->
+    <string name="icon_home">Home</string>
+    <string name="icon_order">Order</string>
+    <string name="icon_catalog">Catalog</string>
+    <string name="icon_account">Account</string>
+    <string name="text_point">POINT</string>
+    <string name="text_SmartPKL">SmartPKL</string>
+    <string name="text_Profile">Profile</string>
+    <string name="text_ewallet">E-Wallet</string>
+    <string name="text_ongoing">Ongoing</string>
+    <string name="text_History">History</string>
+    <string name="text_promo">Promo</string>
+    <string name="text_live_maps">Live Maps</string>
+    <string name="text_Category">Categories</string>
+
+    <!-- Types -->
+    <string name="type_martabak">Martabak</string>
+    <string name="type_rice">Rice</string>
+    <string name="type_chicken">Chickens and Ducks</string>
+    <string name="type_snack">Snacks</string>
+    <string name="type_pizza_pasta">Pizza and Pasta</string>
+    <string name="type_noodles">Noodles</string>
+    <string name="type_soup">Soups</string>
+    <string name="type_fast_food">Fast Food</string>
+    <string name="type_beverages">Beverages</string>
+    <string name="type_satay">Satay</string>
+    <string name="type_japanese_cuisine">Japanese Cuisine</string>
+    <string name="type_dessert">Desserts</string>
+    <string name="type_western_cuisine">Western Cuisine</string>
+    <string name="type_bread">Breads</string>
+    <string name="type_seafood">Seafood</string>
+    <string name="type_chinese_cuisine">Chinese Cuisine</string>
+    <string name="type_korean_cuisine">Korean Cuisine</string>
+    <string name="type_indian_cuisine">Indian Cuisine</string>
+    <string name="type_middle_east_cuisine">Middle East Cuisine</string>
+    <string name="type_coffee">Coffee</string>
+    <string name="type_thailand_cuisine">Thailand Cuisine</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

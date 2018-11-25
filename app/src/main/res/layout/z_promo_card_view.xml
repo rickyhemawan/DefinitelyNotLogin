@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+
+    >
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="15dp"
+        app:contentPaddingLeft="10dp"
+        app:contentPaddingRight="10dp"
+        android:id="@+id/promoLayout">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/ivPromoImage"
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:background="@drawable/sushi"
+                android:scaleType="centerCrop" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Card Title"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#000"
+                android:id="@+id/tvFoodTitlePromo"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam erat volutpat.Integer in sapien.Ut enim ad minima veniam, quis nostrum exercitationem."
+                android:id="@+id/tvPromoDesc"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rp. 8000  R̶p̶.̶ ̶1̶0̶0̶0̶0̶"
+                android:textColor="@color/colorRed"
+                android:id="@+id/tvPromoPrice"
+                android:textAlignment="textEnd"
+                />
+
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+</android.support.constraint.ConstraintLayout>
