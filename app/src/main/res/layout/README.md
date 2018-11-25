@@ -1,6 +1,9 @@
 # Activity Layouts
-![](https://github.com/rickyhemawan/ImagesForReadme/blob/master/DefinitelyNotLoginSS/AllActivities.PNG)
+<p align="center">
+  <src="https://github.com/rickyhemawan/ImagesForReadme/blob/master/DefinitelyNotLoginSS/AllActivities.PNG
+">
 This layout includes all of the Activites
+
 # Fragment Layouts
 ![](https://github.com/rickyhemawan/ImagesForReadme/blob/master/DefinitelyNotLoginSS/FragmentTabAccount.PNG)
 fragment_tab_account.xml
@@ -8,7 +11,7 @@ fragment_tab_account.xml
 fragment_tab_category.xml
 ![](https://github.com/rickyhemawan/ImagesForReadme/blob/master/DefinitelyNotLoginSS/FragmentTabMenu2.PNG)
 fragment_tab_menu2.xml
-![](https://github.com/rickyhemawan/ImagesForReadme/blob/master/DefinitelyNotLoginSS/FragmentTabSmartPKL.PNG0
+![](https://github.com/rickyhemawan/ImagesForReadme/blob/master/DefinitelyNotLoginSS/FragmentTabSmartPKL.PNG)
 fragment_tab_smartpkl.xml
 # Adapter Layouts
 ![](https://github.com/rickyhemawan/ImagesForReadme/blob/master/DefinitelyNotLoginSS/zActiveDays.PNG)
