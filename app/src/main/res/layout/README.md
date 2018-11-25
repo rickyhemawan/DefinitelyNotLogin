@@ -1,1 +1,2 @@
-# Layouts
+# Activity Layouts
+# Adapter Layouts
