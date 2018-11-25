@@ -1,7 +1,6 @@
 # Activity Layouts
-<p align="center">
-  ![](https://github.com/rickyhemawan/ImagesForReadme/blob/master/DefinitelyNotLoginSS/AllActivities.PNG)>
-This layout includes all of the Activites
+![](https://github.com/rickyhemawan/ImagesForReadme/blob/master/DefinitelyNotLoginSS/AllActivities.PNG)
+\n This layout includes all of the Activites
 
 # Fragment Layouts
 ![](https://github.com/rickyhemawan/ImagesForReadme/blob/master/DefinitelyNotLoginSS/FragmentTabAccount.PNG)
